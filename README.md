@@ -10,9 +10,18 @@
 - Power BI
 - Data: Superstore Dataset.csv from kaggle
 
-## Deliverables
+## Deliverables:
 -  `Task 2- PowerBI_Data Visualization and Storytelling.pbix` – Power BI working file
--  Superstore Dataset.csv – Summary of visuals
+-  `Superstore Dataset.csv` – Dataset
+-  `Screenshots` - Summary of visuals
+
+## Screenshots:
+
+![Screenshot 2025-06-30 164055](https://github.com/user-attachments/assets/d8a3415a-329a-4845-b667-2b7612138ff6)
+![Screenshot 2025-06-30 164019](https://github.com/user-attachments/assets/7daa4707-e9bd-4a35-a90e-51969e09a5be)
+![Screenshot 2025-06-30 163957](https://github.com/user-attachments/assets/3a778d95-ab8a-4097-a930-d34bf6840f15)
+![Screenshot 2025-06-30 163933](https://github.com/user-attachments/assets/47381745-0c41-4cf2-a800-466c92afb691)
+
   
 ## Visuals Included:
 
